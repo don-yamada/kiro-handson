@@ -30,7 +30,7 @@
 
 💡 **ヒント**: トライアルクレジットは、レッスン1-2を完了するのに十分な量です。
 
-**Kiroのインストールがまだの方**: [Kiro公式サイト](https://kiro.ai)からダウンロードしてください。
+**Kiroのインストールがまだの方**: [Kiro公式サイト](https://kiro.dev/)からダウンロードしてください。
 
 ## 2. プロジェクトのクローン
 
@@ -39,13 +39,13 @@
 ターミナルまたはコマンドプロンプトで以下を実行：
 
 ```bash
-git clone https://github.com/[your-username]/kiro-hands-on-tutorial.git
-cd kiro-hands-on-tutorial
+git clone https://github.com/don-yamada/kiro-handson.git
+cd kiro-handson
 ```
 
 ### Gitを使用しない場合
 
-1. [GitHubリポジトリ](https://github.com/[your-username]/kiro-hands-on-tutorial)にアクセス
+1. [GitHubリポジトリ](https://github.com/don-yamada/kiro-handson)にアクセス
 2. 「Code」ボタンをクリック
 3. 「Download ZIP」を選択
 4. ダウンロードしたZIPファイルを解凍
