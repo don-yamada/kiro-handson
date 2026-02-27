@@ -1,0 +1,27 @@
+# Kiro設定（ユーザー固有）
+.kiro/settings/
+
+# レッスン成果物（各ユーザーが自分で作成）
+lessons/lesson-01/project/.kiro/specs/
+lessons/lesson-01/COMPLETED.md
+lessons/lesson-02/project/*
+!lessons/lesson-02/project/.gitkeep
+lessons/lesson-03/hooks/*
+!lessons/lesson-03/hooks/.gitkeep
+lessons/lesson-03/test-files/*
+!lessons/lesson-03/test-files/.gitkeep
+lessons/lesson-04/mcp-examples/*
+!lessons/lesson-04/mcp-examples/.gitkeep
+
+# macOS
+.DS_Store
+
+# エディタ
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ログ
+*.log

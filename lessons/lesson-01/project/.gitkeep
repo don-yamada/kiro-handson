@@ -1,0 +1,5 @@
+# このディレクトリについて
+
+レッスン1で作成するSpecファイル（requirements.md、design.md、tasks.md）がここに生成されます。
+
+`.kiro/specs/[プロジェクト名]/` というディレクトリ構造で作成されます。
